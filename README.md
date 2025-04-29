@@ -117,13 +117,6 @@ This project demonstrates how **transfer learning** using **MobileNet V3**, **Na
 - Add **batch normalization** or **advanced regularization**
 - Explore **longer training** or **ensemble models**
 
----
-
-📬 **References**
-1. [Colab Notebook - Part A](https://colab.research.google.com/drive/1jcvLGAWhQUjw8zrSXdZktPlROM1uaKYT?usp=drive_link)  
-2. [Colab Notebook - Part B](https://colab.research.google.com/drive/1okCUuDSIeyKylmoJRQ85POdaqGcuuFY7?usp=drive_link)
-
----
 
 🚀 **Conclusion**  
 Transfer learning using MobileNet V3 showed strong performance on Food101, while NasNet and GoogLeNet underperformed. Fine-tuning requires careful adjustment of learning rates, optimizers, and freezing strategies. Future enhancements could further boost accuracy through better model adaptation and advanced techniques like Neural Architecture Search or ensembling.
